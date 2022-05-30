@@ -1,6 +1,5 @@
 ## MULTI_DECODE_TOOL 
 
-![image](https://user-images.githubusercontent.com/62290930/170998600-99907d41-fa2c-42a2-8d8b-80c8c9969c55.png)
-
+![mu;ltidec0dedecodegui](https://user-images.githubusercontent.com/62290930/170999331-96cf917b-1787-404b-b832-e58da218c467.png)
 
 ![](https://badgen.net/badge/icon/VS%20Code?icon=visualstudio&label=Made%20with)
