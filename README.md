@@ -6,3 +6,7 @@
 
 
 ![](https://badgen.net/badge/icon/VS%20Code?icon=visualstudio&label=Made%20with)
+
+## CLI VERSION
+
+![image](https://user-images.githubusercontent.com/62290930/171152913-c8e052bc-86ae-4442-9638-aef33e36f8d1.png)
